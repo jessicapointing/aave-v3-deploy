@@ -165,6 +165,7 @@ export const CommonsConfig: ICommonConfiguration = {
     [eAvalancheNetwork.avalanche]: "0xfD1E5821F07F1aF812bB7F3102Bfd9fFb279513a",
     [eFantomNetwork.main]: "0x161383b5dAFc1cc05Ec058e5B0b0703BA175bdA6",
     [eArbitrumNetwork.arbitrum]: "0xdC6E2b14260F972ad4e5a31c68294Fba7E720701",
+    [eOptimismNetwork.main]: "0x6e7bE86000dF697facF4396efD2aE2C322165dC3",
   },
   FlashLoanPremiums: {
     total: 0.0005e4,
